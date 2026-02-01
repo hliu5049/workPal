@@ -1,0 +1,8 @@
+{
+  "provider": "openai-compatible",
+  "baseUrl": "https://api.minimaxi.com/v1",
+  "model": "MiniMax-M2.1",
+  "temperature": 0.7,
+  "maxTokens": 1024,
+  "apiKey": "sk-api-u6yKrPz1aKDUw0_Fe_-K99KHQ8iEVUbReQsQF7AkCblnzrGSLhi3shOGyP2TgeU4FluWzgFGpib3qjahubF4ebTx7p0yakADVmQdDH7sIhvLsQzFXoNM5iA"
+}

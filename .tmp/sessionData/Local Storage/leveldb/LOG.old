@@ -1,0 +1,9 @@
+2026/02/01-12:37:43.026 f178 Reusing MANIFEST D:\ai-woek\workPal\.tmp\sessionData\Local Storage\leveldb/MANIFEST-000001
+2026/02/01-12:37:43.027 f178 Recovering log #3
+2026/02/01-12:37:43.028 f178 Reusing old log D:\ai-woek\workPal\.tmp\sessionData\Local Storage\leveldb/000003.log 
+2026/02/01-12:41:59.099 234c Level-0 table #5: started
+2026/02/01-12:41:59.102 234c Level-0 table #5: 60566 bytes OK
+2026/02/01-12:41:59.102 234c Delete type=0 #3
+2026/02/01-12:42:05.359 234c Level-0 table #7: started
+2026/02/01-12:42:05.361 234c Level-0 table #7: 194046 bytes OK
+2026/02/01-12:42:05.363 234c Delete type=0 #4
